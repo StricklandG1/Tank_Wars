@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShellBehavior : MonoBehaviour
 {
-    //speed of shell - small float because no physics
+    //speed of shell
     public float speed = 0.3f;
 
     // Start is called before the first frame update
